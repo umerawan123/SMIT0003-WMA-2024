@@ -1,0 +1,5 @@
+git --version
+git init
+git remote add origin (ap ka url)
+go to vscode and type message for (commit & push)
+
