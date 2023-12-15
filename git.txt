@@ -1,5 +1,5 @@
 git --version
 git init
-git remote add origin (ap ka url)
+git remote add origin https://(your access token)@github.com/UzairMuzaffer/SMIT0003-WMA-2024.git
 go to vscode and type message for (commit & push)
 
