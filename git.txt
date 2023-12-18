@@ -1,4 +1,13 @@
 git --version
+
+//for set
+git config --global user.name "your user name"
+git config --global user.email "your email"
+
+//for check
+git config user.name
+git config user.email
+
 git init
 git remote add origin https://(your access token)@github.com/UzairMuzaffer/SMIT0003-WMA-2024.git
 go to vscode and type message for (commit & push)
